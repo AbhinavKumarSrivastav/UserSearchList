@@ -1,0 +1,8 @@
+const userConstants = {
+    SEARCH_REQUEST: 'USERS_SEARCH_REQUEST',
+    SEARCH_SUCCESS: 'USERS_SEARCH_SUCCESS',
+    SEARCH_FAILURE: 'USERS_SEARCH_FAILURE',
+}
+
+
+export { userConstants };
